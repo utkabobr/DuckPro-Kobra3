@@ -25,19 +25,19 @@ The first CFW that you actually need on Kobra 3.
 
 ## FAQ
 
-**Q**uestion: How to connect to web interface?
+**Q**uestion: How to connect to web interface?<br>
 **A**nswer: Just open your printer's IP address in browser from any local device. Printer's IP can be found via printer's display.
 
-**Q**: Is it clean klipper? Will I be able to update it?
+**Q**: Is it clean klipper? Will I be able to update it?<br>
 **A**: No. Anycubic modified klipper so hard that it can't be updated and lack some of clean klipper features.
 
-**Q**: Is there any plans to move to clean klipper?
+**Q**: Is there any plans to move to clean klipper?<br>
 **A**: No. It would take too long. But other Kobra 3 users can fork this CFW and change anything they want.
 
-**Q**: How to install klipper addons?
+**Q**: How to install klipper addons?<br>
 **A**: There is no simple way to do it.
 
-**Q**: How to tip a creator?
+**Q**: How to tip a creator?<br>
 **A**: [Boosty](https://boosty.to/ytkab0bp)
 
 ## Features (Advanced)
