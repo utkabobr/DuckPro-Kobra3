@@ -1,0 +1,11 @@
+prefix=/home/ytka/dist
+exec_prefix=/home/ytka/dist
+libdir=/home/ytka/dist/lib
+includedir=/home/ytka/dist/include
+
+Name: fdisk
+Description: fdisk library
+Version: 2.40.2
+Requires.private: uuid blkid
+Cflags: -I${includedir}/libfdisk
+Libs: -L${libdir} -lfdisk

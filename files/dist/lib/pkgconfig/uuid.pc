@@ -1,0 +1,11 @@
+prefix=/home/ytka/dist
+exec_prefix=/home/ytka/dist
+libdir=/home/ytka/dist/lib
+includedir=/home/ytka/dist/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.40.2
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid

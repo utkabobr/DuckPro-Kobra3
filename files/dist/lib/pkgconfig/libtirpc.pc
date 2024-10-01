@@ -1,0 +1,12 @@
+prefix=/home/ytka/dist
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libtirpc
+Description: Transport Independent RPC Library
+Requires:
+Version: 1.2.6
+Libs: -L${libdir} -ltirpc
+Libs.private: -lpthread
+Cflags: -I${includedir}/tirpc

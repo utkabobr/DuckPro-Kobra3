@@ -1,0 +1,10 @@
+prefix=/home/ytka/dist
+exec_prefix=/home/ytka/dist
+libdir=/home/ytka/dist/lib
+includedir=/home/ytka/dist/include
+
+Name: smartcols
+Description: table or tree library
+Version: 2.40.2
+Cflags: -I${includedir}/libsmartcols
+Libs: -L${libdir} -lsmartcols

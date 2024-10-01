@@ -1,0 +1,20 @@
+{
+	"use_ams": true,
+	"ams_box_mapping": [
+		{
+			"paint_index": 0,
+			"paint_color": [
+				41,
+				178,
+				178
+			],
+			"material_type": "PLA",
+			"ams_index": 2,
+			"ams_color": [
+				0,
+				187,
+				49
+			]
+		}
+	]
+}
