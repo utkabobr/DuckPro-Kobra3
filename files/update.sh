@@ -107,9 +107,9 @@ cp -rfd ${update_file_path}/dist /useremain/dist
 echo "Duck Pro build updated" >> /tmp/update-log.txt
 
 # Place required files for Duck Pro if config does not exist
-if [ ! -d /useremain/home/ytka/printer_data ];then
-mkdir -p /useremain/home/ytka/printer_data
-    cp -rfd ${update_file_path}/home/ytka/printer_data /useremain/home/ytka/printer_data/
+if [ ! -d /useremain/home/ytka/printer_data/config ];then
+    rm -rf /useremain/home/ytka/printer_data
+    cp -rfd ${update_file_path}/home/ytka/printer_data /useremain/home/ytka/printer_data
     echo "Duck Pro config set up" >> /tmp/update-log.txt
 fi
 
