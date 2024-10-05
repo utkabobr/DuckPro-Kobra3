@@ -1,9 +1,9 @@
+> [!CAUTION]
+> **THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. BY USING IT YOU TAKE ALL THE RISKS FOR YOUR ACTIONS**
+
 # Duck Pro CFW
 
 The first CFW that you actually need on Kobra 3.
-
-> [!CAUTION]
-> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. BY USING IT YOU TAKE ALL THE RISKS FOR YOUR ACTIONS
 
 ## Features (Simple)
 
@@ -30,8 +30,11 @@ The first CFW that you actually need on Kobra 3.
 
 ## Help! I'm stuck on 11407
 This means that Klipper is failed to start.
+
 First - don't worry, you can still re-flash stock firmware or attempt to reinstall Duck Pro.
-This could be due to wrong printer.cfg location. This was the case on 01.10.24 (printer_data unpacked into /useremain/home/ytka/printer_data/printer_data/ instead of /useremain/home/ytka/printer_data/), please update to 05.10.24 or later (or move files if you known how to do it) if you've tried to install it and "bricked" the printer.
+
+This could be due to wrong printer.cfg location. This was the case on 01.10.24 (printer_data unpacked into /useremain/home/ytka/printer_data/printer_data/ instead of /useremain/home/ytka/printer_data/), please update to 05.10.24 or later (or move files if you know how to do it) if you've tried to install it and "bricked" the printer.
+
 Link to the stock firmware: [2.3.2.9](https://ytkab0bp.ru/Kobra3_2.3.2.9.swu) (Place it as update.swu in that folder with strange symbols on 2.3.2.9 and "update" on pre-2.3.2.9)
 
 ## Features (Advanced)
