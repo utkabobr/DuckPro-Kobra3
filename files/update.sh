@@ -112,6 +112,9 @@ if [ ! -d /useremain/home/ytka/printer_data/config ];then
     cp -rfd ${update_file_path}/home/ytka/printer_data /useremain/home/ytka/printer_data
     echo "Duck Pro config set up" >> /tmp/update-log.txt
 fi
+if [ ! -d /useremain/home/ytka/printer_data/logs ];then
+    mkdir -p /useremain/home/ytka/printer_data/logs
+fi
 
 # Place files that should be modified when installing update
 rm -rf /useremain/home/ytka/mainsail
