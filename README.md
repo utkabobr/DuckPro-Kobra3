@@ -2,6 +2,8 @@
 
 The first CFW that you actually need on Kobra 3.
 
+:ru: [Readme на русском языке](./README.ru.md)
+
 ## Features (Simple)
 
 - Web interface (Mainsail/Fluidd):
@@ -16,17 +18,31 @@ The first CFW that you actually need on Kobra 3.
 
 ## Installation
 
-1. Download latest archive from [Releases](https://github.com/utkabobr/DuckPro-Kobra3/releases/latest);
-2. Unpack it's content onto the FAT32 USB drive (Do not rename or move anything until otherwise stated);
-3. :warning: If you're on firmware lower than 2.3.2.9, then rename folder `aGVscF9zb3Nf` to `update`;
-4. Plug USB drive into the printer;
+### Versions up to 2.3.2.9
+
+:warning: All actions you take are at your own risk and peril. The firmware author assumes no responsibility for any consequences of its installation :warning:
+
+1. Download the latest version from the Releases page;
+2. Extract the contents of the archive onto a FAT32 formatted USB flash drive (do not delete or rename anything);
+3. Rename the folder aGVscF9zb3Nf to update;
+4. Insert the USB flash drive into the printer;
 5. Settings => Device Informations => Printer information => Firmware version (NOT the Wi-Fi IP address);
-6. There should be an orange button next to the row, click it and wait for the installation to finish.
+6. There should be an orange button. Press it and wait for the firmware installation to complete.
+
+### Versions starting from 2.3.2.9
+
+:warning: All actions you take are at your own risk and peril. The firmware author assumes no responsibility for any consequences of its installation :warning:
+
+1. Download the latest version from the Releases page;
+2. Extract the contents of the archive onto a USB flash drive, formatted in FAT32 (do not delete or rename anything);
+3. Insert the flash drive into the printer. The installation will start automatically, and nothing will be displayed on the screen, but music will play. Wait until the printer automatically restarts (it may take several minutes).
+
+:warning: Do not remove the flash drive until the printer restarts itself!
 
 ## FAQ
 
-**Q**uestion: How to connect to web interface?<br>
-**A**nswer: Just open your printer's IP address in browser from any local device. Printer's IP can be found via printer's display.
+**Question**: How to connect to web interface?<br>
+**Answer**: Just open your printer's IP address in browser from any local device. Printer's IP can be found via printer's display.
 
 **Q**: Is it clean klipper? Will I be able to update it?<br>
 **A**: No. Anycubic modified klipper so hard that it can't be updated and lack some of clean klipper features.
