@@ -5,7 +5,11 @@
 
 Первая кастомная прошивка, которая действительно необходима для Kobra 3.
 
-:en: [English Readme](./README.md)
+🇺🇸 [English Readme](./README.md)
+
+# Мои другие проекты
+
+[<img src="/.github/img/bk_badge.jpg">](https://github.com/utkabobr/BeamKlipper) [<img src="/.github/img/sb_badge.jpg">](https://github.com/utkabobr/SliceBeam)
 
 ## Особенности (упрощённо)
 

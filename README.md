@@ -5,7 +5,11 @@
 
 The first CFW that you actually need on Kobra 3.
 
-:ru: [Readme на русском языке](./README.ru.md)
+🇷🇺 [Readme на русском языке](./README.ru.md)
+
+# My other projects
+
+[<img src="/.github/img/bk_badge.jpg">](https://github.com/utkabobr/BeamKlipper) [<img src="/.github/img/sb_badge.jpg">](https://github.com/utkabobr/SliceBeam)
 
 ## Features (Simple)
 
