@@ -9,7 +9,7 @@
 
 # Мои другие проекты
 
-[<img src="/.github/img/bk_badge.jpg">](https://github.com/utkabobr/BeamKlipper) [<img src="/.github/img/sb_badge.jpg">](https://github.com/utkabobr/SliceBeam)
+[<img src="/.github/img/bk_badge.png">](https://github.com/utkabobr/BeamKlipper) [<img src="/.github/img/sb_badge.png">](https://github.com/utkabobr/SliceBeam)
 
 ## Особенности (упрощённо)
 
