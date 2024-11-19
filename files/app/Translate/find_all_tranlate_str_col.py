@@ -56,7 +56,8 @@ ts_file_paths = {
     '意大利语': 'LanguageItaly.ts',
     '日语': 'LanguageJapanese.ts',  
     '俄语': 'LanguageRussian.ts',  
-    '西班牙语': 'LanguageSpain.ts'
+    '西班牙语': 'LanguageSpain.ts',
+    '韩语': 'LanguageKorea.ts'
 }  
   
 # 提取翻译  

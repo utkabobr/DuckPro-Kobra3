@@ -1,9 +1,9 @@
-k3api: 47f061d1
-k3c: 2243271e
-k3ui: c65dcfe7
-gkcam: 148234dc
-printercfg: 4a0a1215
-version: 2.3.3.9
+k3api: a497dc74
+k3c: d1ea5804
+k3ui: 6c5968a9
+gkcam: 27fc39f1
+printercfg: 5ffa6d96
+version: 2.3.5.3
  
 rv1106_image: 
  

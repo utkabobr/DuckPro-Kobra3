@@ -30,10 +30,10 @@
         <translation>China</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1239"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1251"/>
         <location filename="../Business/StartProcess/AcStartAreaUiInit.cpp" line="98"/>
         <location filename="../Business/StartProcess/AcStartCloudUiInit.cpp" line="204"/>
-        <location filename="../Business/StartProcess/AcStartLanguageUiInit.cpp" line="100"/>
+        <location filename="../Business/StartProcess/AcStartLanguageUiInit.cpp" line="114"/>
         <source>Next</source>
         <translation>Nächste</translation>
     </message>
@@ -70,7 +70,7 @@
     </message>
     <message>
         <location filename="../Business/CloudBusiness/AcCloudUiInit.cpp" line="292"/>
-        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="310"/>
+        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="317"/>
         <location filename="../Business/SettingBusiness/AcSettingUiInit.cpp" line="70"/>
         <location filename="../Business/StartProcess/AcStartNetWorkUiInit.cpp" line="22"/>
         <source>Network</source>
@@ -111,8 +111,8 @@
         <translation>Mehr</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="588"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1238"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="600"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1250"/>
         <location filename="../Business/StartProcess/AcStartCloudUiInit.cpp" line="203"/>
         <source>Skip</source>
         <translation>Überspringen</translation>
@@ -158,17 +158,17 @@
         <location filename="../Business/StartProcess/AcStartCloudUiInit.cpp" line="143"/>
         <location filename="../Business/StartProcess/AcStartCloudUiInit.cpp" line="156"/>
         <location filename="../Business/StartProcess/AcStartCloudUiInit.cpp" line="215"/>
-        <location filename="../Example/AcProjectModeTestPopWin.cpp" line="456"/>
+        <location filename="../Example/AcProjectModeTestPopWin.cpp" line="464"/>
         <source>Unconnected</source>
         <translation>Ungebunden</translation>
     </message>
     <message>
-        <location filename="../Business/StartProcess/AcStartWelcomeUiInit.cpp" line="65"/>
+        <location filename="../Business/StartProcess/AcStartWelcomeUiInit.cpp" line="67"/>
         <source>For Freedom To Make</source>
         <translation>Für Freiheit zu machen</translation>
     </message>
     <message>
-        <location filename="../Business/StartProcess/AcStartWelcomeUiInit.cpp" line="66"/>
+        <location filename="../Business/StartProcess/AcStartWelcomeUiInit.cpp" line="68"/>
         <source>Enjoy Your 3D Printing</source>
         <translation>Und action!</translation>
     </message>
@@ -190,7 +190,7 @@
         <translation>NEIN</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="506"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="518"/>
         <source>Insert U-Disk</source>
         <translation>Legen Sie die U-Disk ein</translation>
     </message>
@@ -199,8 +199,8 @@
         <location filename="../Business/FilamentBusiness/AcMaterialHubUnWindFilamentUiInit.cpp" line="23"/>
         <location filename="../Business/FilamentBusiness/AcMaterialRackInFilamentUiInit.cpp" line="158"/>
         <location filename="../Business/FilamentBusiness/AcMaterialRackOutFilamentUiInit.cpp" line="29"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="553"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1225"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="565"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1237"/>
         <location filename="../Business/ToolsBusiness/AcAutoLevelUiInit.cpp" line="336"/>
         <source>Step 1</source>
         <translation>Schritt 1</translation>
@@ -211,7 +211,7 @@
         <translation>Extrusion abgeschlossen</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="570"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="582"/>
         <source>X Axis Detection</source>
         <translation>X-Achsen-Erkennung</translation>
     </message>
@@ -220,14 +220,14 @@
         <location filename="../Business/FilamentBusiness/AcMaterialHubUnWindFilamentUiInit.cpp" line="24"/>
         <location filename="../Business/FilamentBusiness/AcMaterialRackInFilamentUiInit.cpp" line="159"/>
         <location filename="../Business/FilamentBusiness/AcMaterialRackOutFilamentUiInit.cpp" line="30"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="554"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1226"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="566"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1238"/>
         <location filename="../Business/ToolsBusiness/AcAutoLevelUiInit.cpp" line="337"/>
         <source>Step 2</source>
         <translation>Schritt 2</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="571"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="583"/>
         <source>Y Axis Detection</source>
         <translation>Y-Achsen-Erkennung</translation>
     </message>
@@ -236,14 +236,14 @@
         <location filename="../Business/FilamentBusiness/AcMaterialHubUnWindFilamentUiInit.cpp" line="25"/>
         <location filename="../Business/FilamentBusiness/AcMaterialRackInFilamentUiInit.cpp" line="160"/>
         <location filename="../Business/FilamentBusiness/AcMaterialRackOutFilamentUiInit.cpp" line="31"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="555"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1227"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="567"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1239"/>
         <location filename="../Business/ToolsBusiness/AcAutoLevelUiInit.cpp" line="338"/>
         <source>Step 3</source>
         <translation>Schritt 3</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="572"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="584"/>
         <source>Z Axis Detection</source>
         <translation>Z-Achsen-Erkennung</translation>
     </message>
@@ -256,105 +256,105 @@
         <location filename="../Business/FilamentBusiness/AcMaterialRackInFilamentUiInit.cpp" line="164"/>
         <location filename="../Business/FilamentBusiness/AcMaterialRackOutFilamentUiInit.cpp" line="15"/>
         <location filename="../Business/FilamentBusiness/AcMaterialRackOutFilamentUiInit.cpp" line="35"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="850"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1082"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="862"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1094"/>
         <location filename="../Business/ToolsBusiness/AcAutoLevelUiInit.cpp" line="342"/>
         <location filename="../Business/ToolsBusiness/AcToolsSelUiInit.cpp" line="184"/>
-        <location filename="../InterFace.cpp" line="550"/>
+        <location filename="../InterFace.cpp" line="531"/>
         <source>Preheating</source>
         <translation>Vorheizen</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="754"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1053"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1231"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="766"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1065"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1243"/>
         <source>X-axis detection</source>
         <translation>Erkennung der X-Achse</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="755"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1054"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1232"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="767"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1066"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1244"/>
         <source>Y-axis detection</source>
         <translation>Erkennung der Y-Achse</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="756"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1055"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1233"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="768"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1067"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1245"/>
         <source>Z-axis detection</source>
         <translation>Erkennung der Z-Achse</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="851"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="863"/>
         <location filename="../Business/ToolsBusiness/AcAutoLevelUiInit.cpp" line="343"/>
-        <location filename="../InterFace.cpp" line="551"/>
+        <location filename="../InterFace.cpp" line="532"/>
         <source>Wiping Nozzle</source>
         <translation>Wischdüse</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="852"/>
-        <location filename="../InterFace.cpp" line="552"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="864"/>
+        <location filename="../InterFace.cpp" line="533"/>
         <source>Probe</source>
         <translation>Sonde</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1027"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1241"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1039"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1253"/>
         <source>Insert USB stick</source>
         <translation>USB-Stick einstecken</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1033"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1243"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1045"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1255"/>
         <source>Insert the USB stick correctly as shown in the illustration</source>
         <translation>Stecken Sie den USB-Stick richtig ein, wie in der Abbildung gezeigt</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1037"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1049"/>
         <source>Self-test</source>
         <translation>Selbsttest</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1063"/>
-        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="93"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1075"/>
+        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="88"/>
         <source>Auto-leveling</source>
         <translation>Automatische Nivellierung</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1084"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1096"/>
         <source>Wiping nozzle</source>
         <translation>Reinigen der Düse</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1085"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1097"/>
         <location filename="../Business/ToolsBusiness/AcAutoLevelUiInit.cpp" line="344"/>
         <source>Probing</source>
         <translation>Abtasten</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1102"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1130"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1114"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1142"/>
         <source>Load Filament</source>
         <translation>Filament laden</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1146"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1158"/>
         <source>Insert the filament into the print head, click extrude button until the filament is extruded.</source>
         <translation>Führen Sie das Filament in den Druckkopf ein und klicken Sie auf die Schaltfläche „Extrudieren“, bis das Filament extrudiert ist.</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1181"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1193"/>
         <source>Detecting resonance, please do not touch the printer</source>
         <translation>Resonanzerkennung, Drucker nicht berühren</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1213"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1225"/>
         <source>Resonance detection has ended. Click &apos;Finish&apos; to exit</source>
         <translation>Die Resonanzerkennung ist beendet. Klicken Sie zum Fertigstellen auf &quot;Beenden&quot;</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1278"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1290"/>
         <source>Resonance compensation is about to start. Please ensure the printer is placed stably and avoid any other sources of vibration</source>
         <translation>Die Resonanzkompensation wird in Kürze beginnen. Bitte stellen Sie sicher, dass der Drucker stabil aufgestellt ist und vermeiden Sie andere Vibrationsquellen</translation>
     </message>
@@ -362,35 +362,35 @@
         <location filename="../Business/FilamentBusiness/AcMaterialHubInFilamentUiInit.cpp" line="203"/>
         <location filename="../Business/FilamentBusiness/AcMaterialRackInFilamentUiInit.cpp" line="153"/>
         <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="36"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1248"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1260"/>
         <source>Retry</source>
         <translation>Wiederholen</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1118"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1130"/>
         <source>Insert the filament into the 1st feeding port of the ACE.</source>
         <translation>Führen Sie das Filament in den 1. Einspeiseanschluss des ACE ein.</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="87"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="100"/>
         <source>Resonance detection has ended Click &apos;Finish&apos; to exit</source>
         <translation>Die Resonanzerkennung ist beendet. Klicken Sie zum Beenden auf „Fertig“</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="314"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="327"/>
         <source>Abnormal X-axis Vibration Compensation Detected. Please Adjust the Tension of the X-axis Belt and Retest</source>
         <translation>Abnormaler Schwingungsausgleich der X-Achse festgestellt. Bitte passen Sie die Spannung des X-Achsen-Riemens an und wiederholen Sie den Test</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="315"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="328"/>
         <source>Abnormal Y-axis Vibration Compensation Detected. Please Adjust the Tension of the Y-axis Belt and Retest</source>
         <translation>Abnormaler Schwingungsausgleich der Y-Achse festgestellt. Bitte passen Sie die Spannung des Y-Achsen-Riemens an und wiederholen Sie den Test</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1159"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1191"/>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="289"/>
-        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="94"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1171"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1203"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="302"/>
+        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="89"/>
         <source>Vibration Compensation</source>
         <translation>Vibrationskompensation</translation>
     </message>
@@ -421,6 +421,7 @@
     </message>
     <message>
         <location filename="../Business/PrintFileMangae/AcFileBrowseUiInit.cpp" line="623"/>
+        <location filename="../CloudInterface.cpp" line="295"/>
         <source>File download completed</source>
         <translation>Dateidownload abgeschlossen</translation>
     </message>
@@ -428,8 +429,9 @@
         <location filename="../Business/AcMainUiInit.cpp" line="29"/>
         <location filename="../Business/FilamentBusiness/AcMaterialColorMapUiInit.cpp" line="196"/>
         <location filename="../Business/FilamentBusiness/AcMaterialColorMapUiInit.cpp" line="200"/>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="353"/>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="357"/>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="50"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="368"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="372"/>
         <source>Print</source>
         <translation>Drucken</translation>
     </message>
@@ -479,43 +481,44 @@
         <translation>Farbabstimmung</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="340"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="355"/>
         <source>Print Color</source>
         <translation>Farbe</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="339"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="354"/>
         <source>Estimated time</source>
         <translation>Zeit</translation>
     </message>
     <message>
         <location filename="../Business/PopWindow/AcQrCodeBackSolvePopWin.cpp" line="74"/>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="216"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="203"/>
         <source>USB stick and camera not connected</source>
         <translation>USB-Stick und Kamera nicht angeschlossen</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="343"/>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="51"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="358"/>
         <source>Leveling</source>
         <translation>Auto-Leveling</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="345"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="360"/>
         <source>Time-lapse</source>
         <translation>Zeitraffer</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="390"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="405"/>
         <source>USB stick error</source>
         <translation>USB-Stick-Fehler</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="396"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="411"/>
         <source>USB stick has insufficient storage capacity, please delete some files</source>
         <translation>USB-Stick hat nicht genügend Speicherkapazität, bitte löschen Sie einige Dateien</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="398"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="413"/>
         <source>Insufficient local storage capacity, please delete some files</source>
         <translation>Unzureichende lokale Speicherkapazität, bitte löschen Sie einige Dateien</translation>
     </message>
@@ -531,8 +534,11 @@
         <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="67"/>
         <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="73"/>
         <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="79"/>
+        <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="85"/>
+        <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="91"/>
+        <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="97"/>
         <source>Adjustable Range</source>
-        <translation>Reichweite</translation>
+        <translation>Temperaturbereich</translation>
     </message>
     <message>
         <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="32"/>
@@ -541,7 +547,7 @@
         <translation>Bruttemperatur</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="74"/>
+        <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="92"/>
         <source>Drying Temperature</source>
         <translation>Trocknungstemperatur</translation>
     </message>
@@ -552,7 +558,7 @@
         <translation>Düsentemp</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="342"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="357"/>
         <source>Print Filament</source>
         <translation>Material</translation>
     </message>
@@ -563,6 +569,8 @@
     </message>
     <message>
         <location filename="../Business/PopWindow/AcFileExDelPopWin.cpp" line="32"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="72"/>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="157"/>
         <source>Please insert USB stick</source>
         <translation>Bitte USB-Stick einstecken</translation>
     </message>
@@ -642,7 +650,7 @@
         <location filename="../Business/PopWindow/AcFlushVolumeSetPopWin.cpp" line="79"/>
         <location filename="../Business/PopWindow/AcNonStandardNozzlePopWin.cpp" line="58"/>
         <location filename="../Business/PopWindow/AcOtaUpgradeConfirmCancelPopWin.cpp" line="93"/>
-        <location filename="../Business/PopWindow/AcPrintTimePopWin.cpp" line="65"/>
+        <location filename="../Business/PopWindow/AcPrintTimePopWin.cpp" line="54"/>
         <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="44"/>
         <location filename="../Business/PopWindow/AcQrCodeConfirmPopWin.cpp" line="164"/>
         <location filename="../Business/PopWindow/AcSpeedSelPopWin.cpp" line="42"/>
@@ -667,19 +675,19 @@
     </message>
     <message>
         <location filename="../Business/PopWindow/AcSpeedSelPopWin.cpp" line="37"/>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="527"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="519"/>
         <source>Quiet</source>
         <translation>Leise</translation>
     </message>
     <message>
         <location filename="../Business/PopWindow/AcSpeedSelPopWin.cpp" line="38"/>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="528"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="520"/>
         <source>Standard</source>
         <translation>Standard</translation>
     </message>
     <message>
         <location filename="../Business/PopWindow/AcSpeedSelPopWin.cpp" line="39"/>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="529"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="521"/>
         <source>Sport</source>
         <translation>Sport</translation>
     </message>
@@ -704,27 +712,27 @@
         <translation>Kalibrierung</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="49"/>
+        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="45"/>
         <source>Confirm hotbed leveling probe?</source>
         <translation>Heizbett-Nivellierung durchführen ?</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="61"/>
+        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="57"/>
         <source>Confirm resonance frequency detection?</source>
         <translation>Resonanzfrequenzserkennung durchführen?</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="61"/>
+        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="57"/>
         <source>Tip: Ensure the printer is stable and avoid any vibrations.</source>
         <translation>Tipp: Stellen Sie sicher, dass der Drucker stabil steht und keine Vibrationen auftreten.</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="74"/>
+        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="69"/>
         <source>PID calibration may take some time. Proceed?</source>
         <translation>Die PID-Kalibrierung kann einige Zeit dauern. Fortfahren?</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="95"/>
+        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="90"/>
         <source>PID Calibration</source>
         <translation>PID-Kalibrierung</translation>
     </message>
@@ -734,16 +742,16 @@
         <translation>PID wird kalibriert, bitte warten.</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="29"/>
+        <location filename="../Business/ToolsBusiness/AcToolsControlsUiInit.cpp" line="25"/>
         <source>PID calibration completed</source>
         <translation>PID-Kalibrierung abgeschlossen</translation>
     </message>
     <message>
         <location filename="../Business/FilamentBusiness/AcMaterialHubInFilamentUiInit.cpp" line="204"/>
         <location filename="../Business/FilamentBusiness/AcMaterialRackInFilamentUiInit.cpp" line="154"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1252"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1264"/>
         <location filename="../Business/ToolsBusiness/AcAutoLevelUiInit.cpp" line="332"/>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="292"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="305"/>
         <source>Finish</source>
         <translation>Fertigstellen</translation>
     </message>
@@ -814,63 +822,98 @@
         <translation>Abonnieren Sie uns auf YouTube</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="6"/>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="735"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="7"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="727"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="9"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="11"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="17"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="23"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="31"/>
+        <source>Camera Light</source>
+        <translation>Kamera-Licht</translation>
+    </message>
+    <message>
+        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="12"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="18"/>
         <source>Z-Axis Offset</source>
         <translation>Z-Achsen-Versatz</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="43"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="67"/>
         <source>Activating the light will turn off the AI camera. Proceed?</source>
         <translation>Wenn Sie das Licht aktivieren, wird die KI-Kamera ausgeschaltet. Fortsetzen?</translation>
     </message>
     <message>
         <location filename="../Business/SettingBusiness/AcGeneralSettingsUiInit.cpp" line="77"/>
         <location filename="../Business/SettingBusiness/AcLanguageUiInit.cpp" line="48"/>
-        <location filename="../Business/StartProcess/AcStartLanguageUiInit.cpp" line="99"/>
+        <location filename="../Business/StartProcess/AcStartLanguageUiInit.cpp" line="113"/>
         <source>Language</source>
         <translation>Sprache</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="102"/>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="103"/>
         <source>System restore will remove all settings and files from this machine. Proceed?</source>
         <translation>Die Systemwiederherstellung entfernt alle Einstellungen und Dateien von diesem Gerät. Fortfahren?</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="148"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="68"/>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="153"/>
+        <source>Export logs to the USB stick?</source>
+        <translation>Protokolle auf den USB-Stick exportieren?</translation>
+    </message>
+    <message>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="185"/>
+        <source>Exported logs successfully.</source>
+        <translation>Exportierte Protokolle erfolgreich.</translation>
+    </message>
+    <message>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="191"/>
         <source>About the Machine</source>
         <translation>Über das Gerät</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="150"/>
-        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="161"/>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="193"/>
+        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="162"/>
         <source>Printer Information</source>
         <translation>Druckerinformationen</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="151"/>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="194"/>
         <source>ACE 1 Information</source>
         <translation>ACE 1-Informationen</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="152"/>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="195"/>
         <source>ACE 2 Information</source>
         <translation>ACE 2-Informationen</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="153"/>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="196"/>
         <source>System Restore</source>
         <translation>Systemwiederherstellung</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="154"/>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="197"/>
+        <source>Export logs to U-disk</source>
+        <translation>Protokoll exportieren</translation>
+    </message>
+    <message>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="198"/>
         <source>Terms of Service</source>
         <translation>Servicebedingungen</translation>
+    </message>
+    <message>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="785"/>
+        <source>The firmware type does not match the current device.</source>
+        <translation>Der Firmware-Typ stimmt nicht mit dem aktuellen Gerät überein.</translation>
+    </message>
+    <message>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="786"/>
+        <source>Current upgrade package is</source>
+        <translation>Das aktuelle Upgrade-Paket ist</translation>
     </message>
     <message>
         <location filename="../Business/SettingBusiness/AcUseEquipment.cpp" line="73"/>
@@ -896,7 +939,7 @@
     <message>
         <location filename="../Business/FilamentBusiness/AcMaterialHubUiInit.cpp" line="537"/>
         <location filename="../Business/PopWindow/AcCancelConfirmPopWin.cpp" line="94"/>
-        <location filename="../ErrorHandler.cpp" line="604"/>
+        <location filename="../ErrorHandler.cpp" line="639"/>
         <source>Back</source>
         <translation>Zurück</translation>
     </message>
@@ -907,18 +950,23 @@
         <translation>Konto</translation>
     </message>
     <message>
-        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="150"/>
-        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="371"/>
+        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="95"/>
+        <source>WiFi connection failed, ssid or password exceeds 32 characters</source>
+        <translation>WLAN-Verbindung fehlgeschlagen, SSID oder Passwort übersteigt 32-Zeichen</translation>
+    </message>
+    <message>
+        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="157"/>
+        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="379"/>
         <source>Connected</source>
         <translation>verbunden</translation>
     </message>
     <message>
-        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="321"/>
+        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="328"/>
         <source>Network setup failed</source>
         <translation>Netzwerkeinrichtung fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="328"/>
+        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="335"/>
         <source>Wi-Fi Connected</source>
         <translation>WLAN Verbunden</translation>
     </message>
@@ -959,8 +1007,8 @@
     </message>
     <message>
         <location filename="../Business/CloudBusiness/AcCloudMoreInfo.cpp" line="92"/>
-        <source>MAC Address</source>
-        <translation>MAC-Adresse</translation>
+        <source>MAC</source>
+        <translation>MAC</translation>
     </message>
     <message>
         <location filename="../Business/PopWindow/AcBacklightSelPopWin.cpp" line="129"/>
@@ -984,13 +1032,13 @@
     </message>
     <message>
         <location filename="../Business/SettingBusiness/AcAboutAceUiInit.cpp" line="148"/>
-        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="162"/>
+        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="163"/>
         <source>Machine</source>
         <translation>Gerät</translation>
     </message>
     <message>
         <location filename="../Business/SettingBusiness/AcAboutAceUiInit.cpp" line="149"/>
-        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="163"/>
+        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="164"/>
         <source>Firmware Version</source>
         <translation>Firmware-Version</translation>
     </message>
@@ -1090,7 +1138,7 @@
     </message>
     <message>
         <location filename="../Business/FilamentBusiness/AcMaterialHubDrySettingUiInit.cpp" line="190"/>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="341"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="356"/>
         <source>Temperature</source>
         <translation>Temperatur</translation>
     </message>
@@ -1131,13 +1179,13 @@
         <translation>Abnormale Trocknungsfunktion</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="80"/>
+        <location filename="../Business/PopWindow/AcNumKeyBoardPopWin.cpp" line="98"/>
         <source>Drying Time</source>
         <translation>Trockenzeit</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="267"/>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="291"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="280"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="304"/>
         <source>Detecting the resonance
 please don&apos;t touch the printer</source>
         <translation>Wenn Sie die Resonanz erkennen,
@@ -1153,7 +1201,7 @@ please don&apos;t touch the printer</source>
         <location filename="../Business/PopWindow/AcQrCodeBackSolvePopWin.cpp" line="28"/>
         <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="28"/>
         <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="37"/>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="717"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="709"/>
         <source>Stop</source>
         <translation>Stopp</translation>
     </message>
@@ -1163,41 +1211,46 @@ please don&apos;t touch the printer</source>
         <translation>Zeitüberschreitung bei ACE-Antworten. Bitte überprüfen Sie die Stromversorgung und Verkabelung von ACE und versuchen Sie es erneut.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="61"/>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="68"/>
         <source>Filament clogging detected. Please roll four spools back above the print head and resume printing.</source>
         <translation>Bitte geben Sie die Verbrauchsmaterialien an die Oberseite des Druckkopfes zurück und klicken Sie auf, um den Druck fortzusetzen.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="64"/>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="71"/>
         <source>Tangled filament detected. Fix the filament and select Resume.</source>
         <translation>Verwickeltes Filament erkannt. Beheben Sie den Fehler und klicken Sie auf Fortsetzen.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="67"/>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="74"/>
         <source>Timeout on ACE response. Verify ACE&apos;s power and connections and retry.</source>
         <translation>Zeitüberschreitung bei ACE-Rückmeldung. Überprüfen Sie die Stromversorgung und die Anschlüsse des ACE und versuchen Sie es erneut.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="70"/>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="77"/>
         <location filename="../Business/PopWindow/AcQrCodeConfirmPopWin.cpp" line="100"/>
         <source>Extrusion error. Roll back the four spools above the print head and click OK.</source>
         <translation>Extrusionsfehler. Rollen Sie die vier Spulen oberhalb des Druckkopfes zurück und klicken Sie auf OK.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="73"/>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="80"/>
         <location filename="../Business/PopWindow/AcQrCodeConfirmPopWin.cpp" line="104"/>
         <source>Retraction error. Roll back the four spools above the print head and click Resume.</source>
         <translation>Einzugsfehler. Rollen Sie die vier Spulen über dem Druckkopf zurück und klicken Sie auf Fortsetzen.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="76"/>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="83"/>
         <source>Warning: The drying temperature might soften the filament and cause unexpected issues during printing. Proceed with drying?</source>
         <translation>Warnung: Die Trocknungstemperatur könnte das Filament aufweichen und unerwartete Probleme beim Drucken verursachen. Mit der Trocknung fortfahren?</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="79"/>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="86"/>
         <source>The file is missing some required commands, which could result in printing errors. Scan the QR-code to get detailed instructions and confirm if you wish to continue</source>
         <translation>In der Datei fehlen einige erforderliche Befehle, was zu Druckfehlern führen kann. Scannen Sie den QR-Code, um detaillierte Anweisungen zu erhalten, und bestätigen Sie, ob Sie fortfahren möchten</translation>
+    </message>
+    <message>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmCancelPopWin.cpp" line="89"/>
+        <source>Detected that the temperature of the hot bed printed this time is inconsistent with the previous leveling temperature. It is recommended to continue printing after leveling</source>
+        <translation>Es wurde festgestellt, dass die Temperatur des Heißbetts, das dieses Mal gedruckt wurde, nicht mit der vorherigen Nivelliertemperatur übereinstimmt. Es wird empfohlen, den Druck nach dem Nivellieren fortzusetzen</translation>
     </message>
     <message>
         <location filename="../Business/PopWindow/AcQrCodeConfirmPopWin.cpp" line="116"/>
@@ -1211,56 +1264,45 @@ please don&apos;t touch the printer</source>
     </message>
     <message>
         <location filename="../Business/FilamentBusiness/AcMaterialHubSlotSettingUiInit.cpp" line="42"/>
+        <location filename="../Business/ToolsBusiness/AcModuleCaliUiInit.cpp" line="111"/>
+        <location filename="../Business/ToolsBusiness/AcModuleCaliUiInit.cpp" line="270"/>
+        <location filename="../Business/ToolsBusiness/AcModuleCaliUiInit.cpp" line="363"/>
         <source>Save</source>
         <translation>Speichern</translation>
     </message>
     <message>
-        <location filename="../InterFace.cpp" line="190"/>
-        <source>Please refresh after checking the camera</source>
-        <translation>Bitte aktualisieren Sie nach Überprüfung der Kamera</translation>
-    </message>
-    <message>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="119"/>
-        <source>Turning off the AI camera will prevent anomalies from being detected. Do you want to turn it off?</source>
-        <translation>Wenn Sie die KI-Kamera ausschalten, werden Anomalien nicht erkannt. Möchten Sie sie ausschalten?</translation>
-    </message>
-    <message>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="106"/>
-        <source>AI camera activated,We will continue to detect printer abnormalities for you</source>
-        <translation>KI-Kamera aktiviert, Wir werden weiterhin Druckeranomalien für Sie erkennen</translation>
-    </message>
-    <message>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="9"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="19"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="28"/>
         <source>Button Sound</source>
         <translation>Tastenton</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="10"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="20"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="29"/>
         <source>Filament Break Sensor</source>
         <translation>Filamentbruchsensor</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="11"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="21"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="30"/>
         <source>Belt Inspection</source>
         <translation>Riemeninspektion</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="13"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="24"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="32"/>
         <source>Non-Standard Nozzle</source>
         <translation>Nicht-Standard-Düse</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="20"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="40"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="47"/>
         <source>Settings apply after reboot</source>
         <translation>Einstellungen nach Neustart gültig</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="106"/>
-        <source>Automatically turn off lights after enabling AI detection</source>
-        <translation>(Schalten Sie automatisch Lichter aus, nachdem Sie KI-Erkennung aktiviert haben)</translation>
-    </message>
-    <message>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="221"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="300"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="305"/>
         <source>Effective after reboot</source>
         <translation>Wirksam nach Neustart</translation>
     </message>
@@ -1270,38 +1312,68 @@ please don&apos;t touch the printer</source>
         <translation>Fremdkörper auf der Druckplattform erkannt, Aufgabe wurde angehalten. Bitte überprüfen Sie die Druckplattform, bevor Sie fortfahren</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="604"/>
+        <location filename="../ErrorHandler.cpp" line="639"/>
         <source>Home the axis before moving</source>
         <translation>Nullpunktfahrt vor Bewegung der Achse durchführen</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="797"/>
+        <location filename="../ErrorHandler.cpp" line="832"/>
         <source>Homing failed due to printer shutdown</source>
         <translation>Zerieren fehlgeschlagen. Der Drucker wurde heruntergefahren.</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="949"/>
+        <location filename="../ErrorHandler.cpp" line="981"/>
         <source>Move out of range</source>
         <translation>Außerhalb des Bereichs bewegen</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="1073"/>
+        <location filename="../ErrorHandler.cpp" line="1037"/>
+        <source>Registration file save failed</source>
+        <translation>Speichern der Registrierungsdatei fehlgeschlagen</translation>
+    </message>
+    <message>
+        <location filename="../ErrorHandler.cpp" line="1042"/>
+        <source>Device creation failed. Please check the registration environment</source>
+        <translation>Geräteerstellung fehlgeschlagen. Bitte überprüfen Sie die Registrierungsumgebung</translation>
+    </message>
+    <message>
+        <location filename="../ErrorHandler.cpp" line="1047"/>
+        <source>MQTT connection failed</source>
+        <translation>MQTT-Verbindung fehlgeschlagen</translation>
+    </message>
+    <message>
+        <location filename="../ErrorHandler.cpp" line="1119"/>
         <location filename="../FilamentHubHandler.cpp" line="191"/>
         <source>The gcode file does not contain the T command</source>
         <translation>Le fichier gcode ne contient pas de commande T</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="1115"/>
+        <location filename="../ErrorHandler.cpp" line="1161"/>
         <source>Nozzle diameter of the Gcode does not match, which may damage the printer. Please select another file.</source>
         <translation>Der Düsendurchmesser der geschnittenen Feile stimmt nicht mit dem der Gerätedüse überein.</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="595"/>
+        <location filename="../ErrorHandler.cpp" line="1168"/>
+        <source>The X-axis of the printing file exceeds the device move out of range</source>
+        <translation>Die X-Achse der Druckdatei überschreitet die Gerätebewegung außerhalb des Bereichs</translation>
+    </message>
+    <message>
+        <location filename="../ErrorHandler.cpp" line="1175"/>
+        <source>The Y-axis of the printing file exceeds the device move out of range</source>
+        <translation>Die Y-Achse der Druckdatei überschreitet die Gerätebewegung außerhalb des Bereichs</translation>
+    </message>
+    <message>
+        <location filename="../ErrorHandler.cpp" line="1182"/>
+        <source>The Z-axis of the printing file exceeds the device move out of range</source>
+        <translation>Die Z-Achse der Druckdatei überschreitet die Gerätebewegung außerhalb des Bereichs</translation>
+    </message>
+    <message>
+        <location filename="../ErrorHandler.cpp" line="630"/>
         <source>Z-axis sensor detection is abnormal. Please check the sensor wiring, Z-axis screw coupling, and Z-axis for normal movement</source>
         <translation>Датчик оси Z обнаруживает аномалии, проверьте правильное движение провода датчика, муфты оси Z и оси Z</translation>
     </message>
     <message>
-        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="346"/>
+        <location filename="../Business/CloudBusiness/AcCloudWifiUiInit.cpp" line="354"/>
         <source>WiFi scan failed</source>
         <translation>WiFi-Scan fehlgeschlagen</translation>
     </message>
@@ -1311,32 +1383,32 @@ please don&apos;t touch the printer</source>
         <translation>Geräteregistrierung erfolgreich!</translation>
     </message>
     <message>
-        <location filename="../CloudInterface.cpp" line="341"/>
+        <location filename="../CloudInterface.cpp" line="354"/>
         <source>Device environment setup completed successfully!</source>
         <translation>Einrichtung der Geräteumgebung erfolgreich abgeschlossen!</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="1001"/>
+        <location filename="../ErrorHandler.cpp" line="1033"/>
         <source>Registration file not found</source>
         <translation>Die Registrierungsinformationen sind nicht vorhanden</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="694"/>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="777"/>
         <source>Updating firmware failed</source>
         <translation>Firmware-Aktualisierung fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="979"/>
+        <location filename="../ErrorHandler.cpp" line="1011"/>
         <source>No enough disk space</source>
         <translation>Nicht genügend Speicherplatz auf der Festplatte</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="985"/>
+        <location filename="../ErrorHandler.cpp" line="1017"/>
         <source>network timed out</source>
         <translation>Zeitüberschreitung im Netzwerk</translation>
     </message>
     <message>
-        <location filename="../CloudInterface.cpp" line="592"/>
+        <location filename="../CloudInterface.cpp" line="610"/>
         <source>Mcu firmware upgrade success!</source>
         <translation>MCU-Firmware-Update erfolgreich!</translation>
     </message>
@@ -1351,68 +1423,68 @@ please don&apos;t touch the printer</source>
         <translation>ACE-Firmware-Aktualisierung fehlgeschlagen!</translation>
     </message>
     <message>
-        <location filename="../ExpertModeHandler.cpp" line="87"/>
+        <location filename="../ExpertModeHandler.cpp" line="120"/>
         <source>No configuration files found</source>
         <translation>Konfigurationsdatei nicht gefunden</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="363"/>
+        <location filename="../Business/SettingBusiness/AcAboutDevUiInit.cpp" line="421"/>
         <source>Unable to open mcu firmware</source>
         <translation>MCU-Firmware konnte nicht geöffnet werden</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="1108"/>
+        <location filename="../ErrorHandler.cpp" line="1154"/>
         <source>Unable to open file</source>
         <translation>Diese gcode-Datei konnte nicht geöffnet werden</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="344"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="359"/>
         <source>Input Shaping</source>
         <translation>Resonanz</translation>
     </message>
     <message>
         <location filename="../Business/FilamentBusiness/AcMaterialColorMapUiInit.cpp" line="196"/>
-        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="353"/>
+        <location filename="../Business/PrintFileMangae/AcFileViewUiInit.cpp" line="368"/>
         <source>And Copy To Local Storage</source>
         <translation>und lokal kopieren</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="465"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="457"/>
         <source>Preparation:</source>
         <translation>Druckfertig:</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="467"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="459"/>
         <source>Leveling...</source>
         <translation>Nivellierend...</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="469"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="461"/>
         <source>Resonance Calibration...</source>
         <translation>Resonanz-Kalibrierung...</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="471"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="463"/>
         <source>Flow Calibration...</source>
         <translation>Durchflusskalibrierung...</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="691"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="683"/>
         <source>Do you want to pause printing?</source>
         <translation>Möchten Sie den Druckvorgang pausieren?</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="717"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="709"/>
         <source>Stop printing?</source>
         <translation>Druck beenden?</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="473"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="465"/>
         <source>Preheating...</source>
         <translation>Aufwärmen...</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="691"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="683"/>
         <source>Pause</source>
         <translation>Anhalten</translation>
     </message>
@@ -1423,7 +1495,7 @@ please don&apos;t touch the printer</source>
     </message>
     <message>
         <location filename="../Business/FilamentBusiness/AcMaterialUiInit.cpp" line="170"/>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="676"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="668"/>
         <source>Please connect ACE</source>
         <translation>Bitte verbinden Sie ACE</translation>
     </message>
@@ -1481,8 +1553,8 @@ please don&apos;t touch the printer</source>
         <translation>(Passen Sie den Kontaktabstand zwischen Düse und Plattform mit Vorsicht an)</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1242"/>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="290"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1254"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="303"/>
         <source>Belt abnormal</source>
         <translation>Riemen abnormal</translation>
     </message>
@@ -1657,6 +1729,11 @@ Warnung: Stellen Sie sicher, dass der Drucker vor der Fehlerbehebung ausgeschalt
         <translation>Automatische Zoffset-Kalibrierung, bitte warten.</translation>
     </message>
     <message>
+        <location filename="../Business/PopWindow/AcWaitHandlePopWin.cpp" line="45"/>
+        <source>Exported logs successfully, please turn off the power manually.</source>
+        <translation>Nachdem die Protokolle erfolgreich exportiert wurden, schalten Sie bitte den Strom manuell aus.</translation>
+    </message>
+    <message>
         <location filename="../Business/PopWindow/AcOtaDownloadPopWin.cpp" line="36"/>
         <source>Downloading firmware, please wait</source>
         <translation>Herunterladen der Firmware, bitte warten</translation>
@@ -1684,7 +1761,7 @@ Warnung: Stellen Sie sicher, dass der Drucker vor der Fehlerbehebung ausgeschalt
         <translation>Dateidownload fehlgeschlagen, diese Aufgabe wurde abgebrochen. Bitte überprüfen Sie das Netzwerk und senden Sie sie erneut.</translation>
     </message>
     <message>
-        <location filename="../CloudInterface.cpp" line="607"/>
+        <location filename="../CloudInterface.cpp" line="625"/>
         <source>Mcu firmware upgrade failed!</source>
         <translation>Mcu-Firmware-Upgrade fehlgeschlagen!</translation>
     </message>
@@ -1771,6 +1848,10 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
     </message>
     <message>
         <location filename="../Business/PopWindow/AcQrCodeBackSolvePopWin.cpp" line="66"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="97"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="131"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="130"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="178"/>
         <source>Camera is not connected</source>
         <translation>Die Kamera ist nicht angeschlossen</translation>
     </message>
@@ -1780,22 +1861,23 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
         <translation>USB-Stick nicht angeschlossen</translation>
     </message>
     <message>
-        <location filename="../CloudPrintHandler.cpp" line="278"/>
+        <location filename="../CloudInterface.cpp" line="284"/>
+        <location filename="../CloudPrintHandler.cpp" line="318"/>
         <source>File download failed</source>
         <translation>Dateidownload fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="316"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="329"/>
         <source>XY-axis resonance abnormal</source>
         <translation>XY-Achsen-Resonanz abnormal</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="1097"/>
+        <location filename="../ErrorHandler.cpp" line="1143"/>
         <source>Failed to obtain matching color information, please check read and write permissions</source>
         <translation>Abgleich der Farbinformationen fehlgeschlagen, bitte überprüfen Sie die Lese- und Schreibberechtigungen</translation>
     </message>
     <message>
-        <location filename="../ErrorHandler.cpp" line="1104"/>
+        <location filename="../ErrorHandler.cpp" line="1150"/>
         <source>Setting matching color failed, please check read and write permissions</source>
         <translation>Einstellung der passenden Farbe fehlgeschlagen, bitte überprüfen Sie die Lese- und Schreibberechtigungen</translation>
     </message>
@@ -1819,7 +1901,7 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
     <message>
         <location filename="../Business/SettingBusiness/AcLanPrintUiInit.cpp" line="129"/>
         <source>The LAN-only mode is in operation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../Business/SettingBusiness/AcLanPrintUiInit.cpp" line="140"/>
@@ -1832,12 +1914,12 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
         <translation>Dieser Modus deaktiviert die Cloud-Dienste. Bitte verwenden Sie Anycubic Slicer Next für LAN-gesteuertes Drucken.</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="602"/>
-        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1158"/>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="54"/>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="56"/>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="246"/>
-        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="301"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="614"/>
+        <location filename="../Business/SettingBusiness/AcGuideUiInit.cpp" line="1170"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="67"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="69"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="259"/>
+        <location filename="../Business/ToolsBusiness/AcResonanceUiInit.cpp" line="314"/>
         <source>Remaining</source>
         <translation>Reste</translation>
     </message>
@@ -1847,7 +1929,7 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
         <translation>Gehe zu Einstellungen</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="65"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="107"/>
         <source>In ACE Pro mode, material breakage detection is enabled by default and cannot be controlled</source>
         <translation>Im ACE Pro Modus ist die Materialbruch-Erkennung standardmäßig aktiviert und kann nicht gesteuert werden</translation>
     </message>
@@ -1862,13 +1944,13 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
         <translation>Erinnere mich in Zukunft nicht mehr daran.</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="8"/>
-        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="12"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintSetUiInit.cpp" line="10"/>
+        <location filename="../Business/SettingBusiness/AcPrintSelectUiInit.cpp" line="22"/>
         <source>Nozzle Light</source>
         <translation>Düsenlicht</translation>
     </message>
     <message>
-        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="488"/>
+        <location filename="../Business/PrintFileMangae/AcFilePrintUiInit.cpp" line="480"/>
         <source>Loading</source>
         <translation>Laden</translation>
     </message>
@@ -1876,16 +1958,6 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
         <location filename="../Business/FilamentBusiness/AcMaterialHubUiInit.cpp" line="380"/>
         <source>Please select a material</source>
         <translation>Bitte wählen Sie ein Material</translation>
-    </message>
-    <message>
-        <location filename="../Business/PopWindow/AcQrCodeConfirmPopWin.cpp" line="144"/>
-        <source>The device failed to start, please check if the nozzle connection wire is loose; If it still cannot be turned on normally, you can scan the code to see the solution.</source>
-        <translation>Das Gerät konnte nicht gestartet werden, überprüfen Sie bitte, ob der Düsenanschlussdraht lose ist; Wenn es immer noch nicht normal eingeschaltet werden kann, können Sie den Code scannen, um die Lösung zu sehen.</translation>
-    </message>
-    <message>
-        <location filename="../Business/PopWindow/AcQrCodeConfirmPopWin.cpp" line="162"/>
-        <source>Restart</source>
-        <translation>Neustart</translation>
     </message>
     <message>
         <location filename="../Business/BootLogo.cpp" line="70"/>
@@ -1898,12 +1970,12 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
         <translation>(Beeinträchtigung der Druckergebnisse vermeiden)</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcPrintTimePopWin.cpp" line="58"/>
+        <location filename="../Business/PopWindow/AcPrintTimePopWin.cpp" line="47"/>
         <source>Duration</source>
         <translation>Dauer</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcPrintTimePopWin.cpp" line="64"/>
+        <location filename="../Business/PopWindow/AcPrintTimePopWin.cpp" line="53"/>
         <source>Printing Complete</source>
         <translation>Drucken abgeschlossen</translation>
     </message>
@@ -1943,7 +2015,7 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
     <message>
         <location filename="../Business/PopWindow/AcFlushVolumeSetPopWin.cpp" line="80"/>
         <source>Tip: The multiplier value is limited to a range of 0.1 to 3.0.</source>
-        <translation>Der Erosionskoeffizient ist auf 0.1 bis 3.0 begrenzt.</translation>
+        <translation>Tipp: Der Multiplikatorwert ist auf  0,1 bis 3,0 begrenzt.</translation>
     </message>
     <message>
         <location filename="../Business/PopWindow/AcNonStandardNozzlePopWin.cpp" line="57"/>
@@ -1951,68 +2023,80 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
         <translation>Die Einstellungen werden nach dem Neustart übernommen</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="18"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="22"/>
         <source>Hotbed heating error detected. Turn off the printer and inspect the wiring.</source>
         <translation>Fehler beim Erhitzen des Heizbetts erkannt. Schalten Sie den Drucker aus und überprüfen Sie die Verkabelung.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="21"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="25"/>
         <source>Extruder heating error detected. Turn off the printer and inspect the extruder and wiring.</source>
         <translation>Fehler bei der Erhitzung des Extruders erkannt. Schalten Sie den Drucker aus und überprüfen Sie den Extruder sowie die Verkabelung.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="24"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="28"/>
         <source>Hotbed NTC error detected. Turn off the power and inspect the NTC and wiring.</source>
         <translation>Heizbett-NTC-Fehler erkannt. Schalten Sie den Strom aus und überprüfen Sie den NTC und die Verkabelung.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="27"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="31"/>
         <source>Extruder NTC error detected. Turn off the power and inspect the NTC and wiring.</source>
         <translation>Extruder-NTC-Fehler erkannt. Schalten Sie den Strom aus und überprüfen Sie den NTC und die Verkabelung.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="30"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="34"/>
         <source>X-axis homing failed. Turn off the printer and inspect the X-axis motor and drive before restarting.</source>
         <translation>Nullpunktfahrt der X-Achse fehlgeschlagen. Schalten Sie den Drucker aus und überprüfen Sie den Motor und den Antrieb der X-Achse, bevor Sie ihn wieder einschalten.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="33"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="37"/>
         <source>Y-axis homing failed. Turn off the printer and inspect the Y-axis motor and drive before restarting.</source>
         <translation>Nullpunktfahrt der Y-Achse fehlgeschlagen. Schalten Sie den Drucker aus und überprüfen Sie den Motor und den Antrieb der Y-Achse, bevor Sie ihn wieder einschalten.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="36"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="40"/>
         <source>Z-axis homing failed. Turn off the printer and inspect the Z-axis motor and drive before restarting.</source>
         <translation>Nullpunktfahrt der Z-Achse fehlgeschlagen. Schalten Sie den Drucker aus und überprüfen Sie den Motor und den Antrieb der Z-Achse, bevor Sie ihn wieder einschalten.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="39"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="43"/>
         <source>Z-axis homing failed. Check the Z-axis sensor.</source>
         <translation>Nullpunktfahrt der Z-Achse fehlgeschlagen. Überprüfen Sie den Z-Achsen-Sensor.</translation>
     </message>
     <message>
-        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="42"/>
-        <source>Failure to start the device. Please turn off the machine, unplug the power supply, and check if the printhead connection cable is loose. Scan the QR-code for detailed instructions</source>
-        <translation>Das Gerät lässt sich nicht starten. Bitte schalten Sie das Gerät aus, ziehen Sie den Netzstecker und prüfen Sie, ob das Druckkopfanschlusskabel locker ist. Scannen Sie den QR-Code, um detaillierte Anweisungen zu erhalten</translation>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="49"/>
+        <source>The firmware version of the print head or mainboard is too low to start the system. Please follow the wiki below to upgrade the firmware.</source>
+        <translation>Die Firmware-Version des Druckkopfes oder Mainboards ist zu niedrig, um das System zu starten. Bitte folgen Sie dem Wiki unten, um die Firmware zu aktualisieren.</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="111"/>
-        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="122"/>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmPopWin.cpp" line="144"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="46"/>
+        <source>System startup error, please turn off the power and re-plug the printhead cable.If it fails multiple times, please insert the USB drive to export the log and contact after-sales.</source>
+        <translation>Fehler beim Systemstart. Bitte schalten Sie das Gerät aus und stecken Sie das Druckkopfkabel erneut ein. Scannen Sie den Code, um das Tutorial anzuzeigen.Wenn es mehrmals fehlschlägt, stecken Sie bitte das USB-Laufwerk ein, um das Protokoll zu exportieren, und wenden Sie sich an den Kundendienst.</translation>
+    </message>
+    <message>
+        <location filename="../Business/PopWindow/AcQrCodeConfirmPopWin.cpp" line="162"/>
+        <location filename="../Business/PopWindow/AcQrCodePopWin.cpp" line="61"/>
+        <source>Export logs</source>
+        <translation>Protokolle exportieren</translation>
+    </message>
+    <message>
+        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="112"/>
+        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="123"/>
         <source>New firmware version detected. Proceed with update?</source>
         <translation>Neue Firmware-Version erkannt. Mit der Aktualisierung fortfahren?</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="133"/>
+        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="134"/>
         <source>New mcu firmware version detected. Proceed with update?</source>
         <translation>Neue Mcu Firmware-Version erkannt. Mit der Aktualisierung fortfahren?</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="164"/>
+        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="165"/>
         <source>Print Dimensions</source>
         <translation>Druckabmessungen</translation>
     </message>
     <message>
-        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="165"/>
+        <location filename="../Business/SettingBusiness/AcAboutPrinterUiInit.cpp" line="166"/>
         <source>Wi-Fi IP Address</source>
         <translation>WLAN-IP-Adresse</translation>
     </message>
@@ -2045,6 +2129,30 @@ Trocknungsprozess gestoppt. Reparatur bei ausgeschaltetem Gerät durchführen.</
         <location filename="../Business/PopWindow/AcDelayModePopWin.cpp" line="66"/>
         <source>Video synthesis is in progress. Please do not unplug the USB stick</source>
         <translation>Video wird verarbeitet. Bitte den USB-Stick nicht entfernen</translation>
+    </message>
+    <message>
+        <location filename="../Business/ToolsBusiness/AcModuleCaliUiInit.cpp" line="104"/>
+        <location filename="../Business/ToolsBusiness/AcModuleCaliUiInit.cpp" line="267"/>
+        <location filename="../Business/ToolsBusiness/AcModuleCaliUiInit.cpp" line="362"/>
+        <source>Position Calibration</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../Business/ToolsBusiness/AcModuleCaliUiInit.cpp" line="348"/>
+        <source>Current X position</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../Business/ToolsBusiness/AcModuleCaliUiInit.cpp" line="27"/>
+        <location filename="../Business/ToolsBusiness/AcModuleCaliUiInit.cpp" line="266"/>
+        <location filename="../Business/ToolsBusiness/AcModuleCaliUiInit.cpp" line="361"/>
+        <source>Knife calibration</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="256"/>
+        <source>Non official firmware code has been detected, which damage the printer. Please use it with caution</source>
+        <translation>Non official firmware code has been detected, which damage the printer. Please use it with caution</translation>
     </message>
 </context>
 </TS>
