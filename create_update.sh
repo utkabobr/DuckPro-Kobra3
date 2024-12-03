@@ -13,5 +13,5 @@ zip -P U2FsdGVkX19deTfqpXHZnB5GeyQ/dtlbHjkUnwgCi+w= -r update.swu update_swu
 echo "3. Creating final update package..."
 rm -f aGVscF9zb3Nf/update.swu
 mv update.swu aGVscF9zb3Nf
-zip -r DuckPro.zip aGVscF9zb3Nf IMPORTANT.txt README-PRE2.3.2.9.txt
+zip -r DuckPro.zip aGVscF9zb3Nf IMPORTANT.txt
 
