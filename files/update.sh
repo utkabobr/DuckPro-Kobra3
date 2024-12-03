@@ -79,11 +79,11 @@ if [ ! -d /useremain/home/ytka/printer_data/logs ];then
     mkdir -p /useremain/home/ytka/printer_data/logs
 fi
 
-if [ -d /useremain/home/ytka/printer_data/config && ! -d /useremain/home/ytka/printer_data/.migration/2_3_5_3 ];then
-    mv /useremain/home/ytka/printer_data/config/printer.cfg /useremain/home/ytka/printer_data/config/printer.pre-2.3.5.3.cfg
+if [ -d /useremain/home/ytka/printer_data/config ] && [ ! -f /useremain/home/ytka/printer_data/.migration/2_3_5_3 ];then
+    mv /useremain/home/ytka/printer_data/config/printer.cfg /useremain/home/ytka/printer_data/config/printer_pre2.3.5.3.cfg
     cp ${update_file_path}/home/ytka/printer_data/config/printer.cfg /useremain/home/ytka/printer_data/config/printer.cfg
 
-    mkdir /useremain/home/ytka/printer_data/.migration
+    mkdir -p /useremain/home/ytka/printer_data/.migration
     echo > /useremain/home/ytka/printer_data/.migration/2_3_5_3
 fi
 
