@@ -18,11 +18,13 @@ sleep 4
 ./gkapi &> /tmp/gkapi.log &
 ./K3SysUi &> /tmp/gkui.log &
 sleep 6
-# ./gkcam &
-/useremain/home/ytka/mjpg-streamer.sh &
+./gkcam &
 
 # Start nginx
 /useremain/home/ytka/nginx.sh &
+
+# Start mjpg-streamer if needed
+/useremain/home/ytka/mjpg-streamer.sh &
 
 # Copy SSH to it's place
 cp -rf /useremain/home/ytka/openssh /ac_lib/lib/openssh
