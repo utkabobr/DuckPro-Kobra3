@@ -17,7 +17,8 @@ sleep 4
 ./gkapi &> /tmp/gkapi.log &
 ./K3SysUi &> /tmp/gkui.log &
 sleep 6
-./gkcam &
+#./gkcam &
+/useremain/home/ytka/mjpg-streamer.sh &
 
 # Start nginx
 /useremain/home/ytka/nginx.sh &
