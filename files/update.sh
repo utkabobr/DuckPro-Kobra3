@@ -118,6 +118,14 @@ rm -rf ${swu_path}/update.swu
 
 sync
 echo "Update finished" >> /tmp/update-log.txt
+
+echo 1 > /sys/class/pwm/pwmchip0/pwm0/enable
+sleep 1
+echo 0 > /sys/class/pwm/pwmchip0/pwm0/enable
+sleep 1
+echo 1 > /sys/class/pwm/pwmchip0/pwm0/enable
+sleep 1
+echo 0 > /sys/class/pwm/pwmchip0/pwm0/enable
+
 echo "success"
 reboot
-
