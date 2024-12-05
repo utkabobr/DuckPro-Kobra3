@@ -13,7 +13,7 @@ The first CFW that you actually need on Kobra 3.
 
 ## Features (Simple)
 
-- Web interface (Mainsail):
+- Web interface (Mainsail/Fluidd):
   - Send g-code files directly from Prusa/Orca Slicer
   - Full control of Kobra 3 from computer/phone
   - View and control bed mesh map
@@ -25,10 +25,10 @@ The first CFW that you actually need on Kobra 3.
 
 ## Installation
 
-1. Download latest archive from [Releases](https://github.com/utkabobr/DuckPro-Kobra3/releases/latest)
-2. Unpack folder from it onto the FAT32 USB drive (Do not rename or move anything)
-3. Power on the printer and wait it to boot
-4. Update to the latest supported firmware (Now it's 2.3.5.3)
+1. Update to the latest supported firmware (Now it's 2.3.5.3)
+2. Download latest archive from [Releases](https://github.com/utkabobr/DuckPro-Kobra3/releases/latest)
+3. Unpack folder from it onto the FAT32 USB drive (Do not rename or move anything)
+4. Power on the printer and wait it to boot
 5. Plug USB drive into the printer
 6. Wait about 5-10 minutes for it to install
 7. Firmware should reboot upon installation. If not, please wait max time and then reboot manually
@@ -68,8 +68,10 @@ Place it as update.swu in that folder with strange symbols.
 - [Moonraker](https://github.com/Arksine/moonraker) - Modified for Kobra 3 (https://github.com/utkabobr/moonraker/tree/duckpro), emulating Heightmap instead of goklipper, emulating required features that goklipper doesn't support
 - [Nginx](https://nginx.org)
 - [Mainsail](https://github.com/mainsail-crew/mainsail)
+- [Fluidd](https://github.com/fluidd-core/fluidd) - Runs on port 4408
 - [fbgrab](https://github.com/GunnarMonell/fbgrab)
 - [socat](http://www.dest-unreach.org/socat)
+- [mjpg-streamer](https://sourceforge.net/projects/mjpg-streamer) - Runs if .camera file is present in your config directory, enabled by default. Reboot is required.
 - Disabled ADB kill
 - Restored [OpenSSH](https://www.openssh.com) - (`root`:`rockchip`)
 - Cool At Doom's Gate beeper script on installation (Ported from [here](https://github.com/robsoncouto/arduino-songs/blob/master/doom/doom.ino))
