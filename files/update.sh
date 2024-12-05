@@ -90,6 +90,8 @@ fi
 # Place files that should be modified when installing update
 rm -rf /useremain/home/ytka/mainsail
 cp -rfd ${update_file_path}/home/ytka/mainsail /useremain/home/ytka/mainsail
+rm -rf /useremain/home/ytka/fluidd
+cp -rfd ${update_file_path}/home/ytka/fluidd /useremain/home/ytka/fluidd
 rm -rf /useremain/home/ytka/moonraker
 cp -rfd ${update_file_path}/home/ytka/moonraker /useremain/home/ytka/moonraker
 cp -fd ${update_file_path}/home/ytka/flashsound.py /useremain/home/ytka/flashsound.py
