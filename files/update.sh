@@ -69,6 +69,9 @@ rm -rf /useremain/dist
 cp -rfd ${update_file_path}/dist /useremain/dist
 echo "Duck Pro build updated" >> /tmp/update-log.txt
 
+# Fix permissions if needed
+chmod +x /useremain/dist/mjpg-streamer/mjpg_streamer
+
 # Place required files for Duck Pro if config does not exist
 if [ ! -d /useremain/home/ytka/printer_data/config ];then
     rm -rf /useremain/home/ytka/printer_data
@@ -99,6 +102,8 @@ cp -fd ${update_file_path}/home/ytka/moonraker.sh /useremain/home/ytka/moonraker
 chmod +x /useremain/home/ytka/moonraker.sh
 cp -fd ${update_file_path}/home/ytka/nginx.sh /useremain/home/ytka/nginx.sh
 chmod +x /useremain/home/ytka/nginx.sh
+cp -fd ${update_file_path}/home/ytka/mjpg_streamer.sh /useremain/home/ytka/mjpg_streamer.sh
+chmod +x /useremain/home/ytka/mjpg_streamer.sh
 echo "Service files updated" >> /tmp/update-log.txt
 
 cp -rfd ${update_file_path}/app/Translate ${to_update_path}
