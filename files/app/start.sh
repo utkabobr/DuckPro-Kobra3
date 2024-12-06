@@ -30,6 +30,9 @@ sleep 6
 cp -rf /useremain/home/ytka/openssh /ac_lib/lib/openssh
 mount --bind /tmp/ /var/empty/
 chmod 600 /var/empty/
+chmod 755 /ac_lib/lib/openssh/bin/*
+chmod 755 /ac_lib/lib/openssh/sbin/*
+chmod 755 /ac_lib/lib/openssh/sshd_start.sh
 /ac_lib/lib/openssh/sshd_start.sh &
 
 # Bind moonraker's gcodes as main folder
