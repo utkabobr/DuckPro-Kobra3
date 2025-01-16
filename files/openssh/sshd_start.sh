@@ -6,18 +6,21 @@ if [ ! -f "$key_file_path/ssh_host_rsa_key" ]
 then
     echo "ssh_host_rsa_key file no exit, creating..."
     ssh-keygen -t rsa -f $key_file_path/ssh_host_rsa_key -N ""
+    chmod 600 $key_file_path/ssh_host_rsa_key
 fi
 
 if [ ! -f "$key_file_path/ssh_host_ecdsa_key" ]
 then
     echo "ssh_host_ecdsa_key file no exit, creating..."
     ssh-keygen -t rsa -f $key_file_path/ssh_host_ecdsa_key -N ""
+    chmod 600 $key_file_path/ssh_host_ecdsa_key
 fi
 
 if [ ! -f "$key_file_path/ssh_host_ed25519_key" ]
 then
     echo "ssh_host_ed25519_key file no exit, creating..."
     ssh-keygen -t rsa -f $key_file_path/ssh_host_ed25519_key -N ""
+    chmod 600 $key_file_path/ssh_host_ed25519_key
 fi
 
 is_cfg=$(cat $key_file_path/sshd_config | grep "HostKey /ac_lib/lib/openssh/etc/ssh_host_rsa_key")
