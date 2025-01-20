@@ -70,7 +70,7 @@ cp -rfd ${update_file_path}/dist /useremain/dist
 echo "Duck Pro build updated" >> /tmp/update-log.txt
 
 # Fix permissions if needed
-chmod +x /useremain/dist/mjpg-streamer/mjpg_streamer
+chmod +x /useremain/dist/mjpg_streamer/mjpg_streamer
 
 # Place required files for Duck Pro if config does not exist
 if [ ! -d /useremain/home/ytka/printer_data/config ];then
