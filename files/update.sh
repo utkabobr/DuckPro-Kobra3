@@ -98,6 +98,8 @@ cp -rfd ${update_file_path}/home/ytka/fluidd /useremain/home/ytka/fluidd
 rm -rf /useremain/home/ytka/moonraker
 cp -rfd ${update_file_path}/home/ytka/moonraker /useremain/home/ytka/moonraker
 cp -fd ${update_file_path}/home/ytka/flashsound.py /useremain/home/ytka/flashsound.py
+cp -fd ${update_file_path}/home/ytka/gklib_patcher.py /useremain/home/ytka/gklib_patcher.py
+cp -fd ${update_file_path}/home/ytka/sysui_patcher.py /useremain/home/ytka/sysui_patcher.py
 cp -fd ${update_file_path}/home/ytka/moonraker.sh /useremain/home/ytka/moonraker.sh
 chmod +x /useremain/home/ytka/moonraker.sh
 cp -fd ${update_file_path}/home/ytka/nginx.sh /useremain/home/ytka/nginx.sh
@@ -113,6 +115,14 @@ cp -fd ${update_file_path}/app/restart_k3c.sh ${to_update_path}/restart_k3c.sh.t
 chmod +x ${to_update_path}/start.sh.tmp
 chmod +x ${to_update_path}/restart_k3c.sh.tmp
 
+# Patch K3SysUi & gklib
+${update_file_path}/dist/bin/python3 ${update_file_path}/home/ytka/gklib_patcher.py ${to_update_path}/gklib >> /tmp/update-log.txt
+${update_file_path}/dist/bin/python3 ${update_file_path}/home/ytka/sysui_patcher.py ${to_update_path}/K3SysUi >> /tmp/update-log.txt
+chmod +x ${to_update_path}/gklib.tmp
+chmod +x ${to_update_path}/K3SysUi.tmp
+
+name_swap ${to_update_path}/gklib
+name_swap ${to_update_path}/K3SysUi
 name_swap ${to_update_path}/start.sh
 name_swap ${to_update_path}/restart_k3c.sh
     
