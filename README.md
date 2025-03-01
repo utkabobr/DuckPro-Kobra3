@@ -59,7 +59,7 @@ Place it as update.swu in that folder with strange symbols.
 **Q**: How to install klipper addons?<br>
 **A**: There is no simple way to do it.
 
-**Q**: How to enable mjpg-streamer?
+**Q**: How to enable mjpg-streamer?<br>
 **A**: Create .camera file in config directory, plug your camera & configure webcamera in mainsail/fluidd
 
 **Q**: How to tip a creator?<br>
