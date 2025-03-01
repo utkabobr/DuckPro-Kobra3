@@ -104,6 +104,9 @@ cp -fd ${update_file_path}/home/ytka/moonraker.sh /useremain/home/ytka/moonraker
 chmod +x /useremain/home/ytka/moonraker.sh
 cp -fd ${update_file_path}/home/ytka/nginx.sh /useremain/home/ytka/nginx.sh
 chmod +x /useremain/home/ytka/nginx.sh
+cp -fd ${update_file_path}/home/ytka/video_daemon.py /useremain/home/ytka/video_daemon.py
+cp -fd ${update_file_path}/home/ytka/video_daemon.sh /useremain/home/ytka/video_daemon.sh
+chmod +x /useremain/home/ytka/video_daemon.sh
 cp -fd ${update_file_path}/home/ytka/mjpg_streamer.sh /useremain/home/ytka/mjpg_streamer.sh
 chmod +x /useremain/home/ytka/mjpg_streamer.sh
 echo "Service files updated" >> /tmp/update-log.txt
