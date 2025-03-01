@@ -23,8 +23,8 @@ sleep 6
 # Start nginx
 /useremain/home/ytka/nginx.sh &
 
-# Start mjpg_streamer if needed
-/useremain/home/ytka/mjpg_streamer.sh &
+# Start video daemon
+/useremain/home/ytka/video_daemon.sh &
 
 # Copy SSH to it's place
 cp -rf /useremain/home/ytka/openssh /ac_lib/lib/openssh
