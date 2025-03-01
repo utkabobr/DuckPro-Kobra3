@@ -59,6 +59,9 @@ Place it as update.swu in that folder with strange symbols.
 **Q**: How to install klipper addons?<br>
 **A**: There is no simple way to do it.
 
+**Q**: How to enable mjpg-streamer?
+**A**: Create .camera file in config directory, plug your camera & configure webcamera in mainsail/fluidd
+
 **Q**: How to tip a creator?<br>
 **A**: [Boosty](https://boosty.to/ytkab0bp)
 
@@ -71,7 +74,7 @@ Place it as update.swu in that folder with strange symbols.
 - [Fluidd](https://github.com/fluidd-core/fluidd) - Runs on port 4408
 - [fbgrab](https://github.com/GunnarMonell/fbgrab)
 - [socat](http://www.dest-unreach.org/socat)
-- [mjpg-streamer](https://sourceforge.net/projects/mjpg-streamer) - Runs if .camera file is present in your config directory, enabled by default. Reboot is required.
+- [mjpg-streamer](https://sourceforge.net/projects/mjpg-streamer)
 - Disabled ADB kill
 - Restored [OpenSSH](https://www.openssh.com) - (`root`:`rockchip`)
 - Cool At Doom's Gate beeper script on installation (Ported from [here](https://github.com/robsoncouto/arduino-songs/blob/master/doom/doom.ino))

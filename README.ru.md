@@ -59,6 +59,9 @@
 **В**: Как установить аддоны для Klipper?<br>
 **О**: Простых способов сделать это не существует.
 
+**Q**: Как включить mjpg-streamer?
+**A**: Создайте файл .camera в папке конфигурации, подключите вашу камеру и настройте камеру в mainsail/fluidd
+
 **В**: Как поблагодарить автора?<br>
 **О**: [Boosty](https://boosty.to/ytkab0bp)
 
@@ -71,7 +74,7 @@
 - [Fluidd](https://github.com/fluidd-core/fluidd) - Запущен на порту 4408
 - [fbgrab](https://github.com/GunnarMonell/fbgrab)
 - [socat](http://www.dest-unreach.org/socat)
-- [mjpg-streamer](https://sourceforge.net/projects/mjpg-streamer) - Запускается если файл .camera присутствует в папке вашей конфигурации, включено по-умолчанию. Требуется перезагрузка.
+- [mjpg-streamer](https://sourceforge.net/projects/mjpg-streamer)
 - Восстановлен ADB
 - Восстановлен [OpenSSH](https://www.openssh.com) - (`root`:`rockchip`)
 - Мелодия At Doom's Gate при установке (Портировано [отсюда](https://github.com/robsoncouto/arduino-songs/blob/master/doom/doom.ino))
