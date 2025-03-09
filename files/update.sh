@@ -89,6 +89,13 @@ if [ -d /useremain/home/ytka/printer_data/config ] && [ ! -f /useremain/home/ytk
     mkdir -p /useremain/home/ytka/printer_data/.migration
     echo > /useremain/home/ytka/printer_data/.migration/2_3_5_3
 fi
+if [ -d /useremain/home/ytka/printer_data/config ] && [ ! -f /useremain/home/ytka/printer_data/.migration/2_3_7_1 ];then
+    mv /useremain/home/ytka/printer_data/config/printer.cfg /useremain/home/ytka/printer_data/config/printer_pre2.3.7.1.cfg
+    cp ${update_file_path}/home/ytka/printer_data/config/printer.cfg /useremain/home/ytka/printer_data/config/printer.cfg
+
+    mkdir -p /useremain/home/ytka/printer_data/.migration
+    echo > /useremain/home/ytka/printer_data/.migration/2_3_7_1
+fi
 
 # Place files that should be modified when installing update
 rm -rf /useremain/home/ytka/mainsail
