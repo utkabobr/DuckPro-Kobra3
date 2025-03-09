@@ -25,7 +25,7 @@ The first CFW that you actually need on Kobra 3.
 
 ## Installation
 
-1. Update to the latest supported firmware (Now it's 2.3.5.3)
+1. Update to the latest supported firmware (Now it's 2.3.7.1)
 2. Download latest archive from [Releases](https://github.com/utkabobr/DuckPro-Kobra3/releases/latest)
 3. Unpack folder from it onto the FAT32 USB drive (Do not rename or move anything)
 4. Power on the printer and wait it to boot
