@@ -43,6 +43,7 @@ First - don't worry, you can still re-flash stock firmware, then attempt to rein
 You need to re-flash stock firmware and then try again if you want.
 
 Links to the stock firmware:
+- [2.3.7.1](https://ytkab0bp.ru/Kobra3_2.3.7.1.swu)
 - [2.3.5.3](https://ytkab0bp.ru/Kobra3_2.3.5.3.swu)
 - [2.3.3.9](https://ytkab0bp.ru/Kobra3_2.3.3.9.swu)
 
