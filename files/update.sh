@@ -73,15 +73,6 @@ echo "Duck Pro build updated" >> /tmp/update-log.txt
 chmod +x /useremain/dist/mjpg_streamer/mjpg_streamer
 
 # Place required files for Duck Pro if config does not exist
-if [ ! -d /useremain/home/ytka/printer_data/config ];then
-    rm -rf /useremain/home/ytka/printer_data
-    cp -rfd ${update_file_path}/home/ytka/printer_data /useremain/home/ytka/printer_data
-    echo "Duck Pro config set up" >> /tmp/update-log.txt
-fi
-if [ ! -d /useremain/home/ytka/printer_data/logs ];then
-    mkdir -p /useremain/home/ytka/printer_data/logs
-fi
-
 if [ -d /useremain/home/ytka/printer_data/config ] && [ ! -f /useremain/home/ytka/printer_data/.migration/2_3_5_3 ];then
     mv /useremain/home/ytka/printer_data/config/printer.cfg /useremain/home/ytka/printer_data/config/printer_pre2.3.5.3.cfg
     cp ${update_file_path}/home/ytka/printer_data/config/printer.cfg /useremain/home/ytka/printer_data/config/printer.cfg
@@ -95,6 +86,15 @@ if [ -d /useremain/home/ytka/printer_data/config ] && [ ! -f /useremain/home/ytk
 
     mkdir -p /useremain/home/ytka/printer_data/.migration
     echo > /useremain/home/ytka/printer_data/.migration/2_3_7_1
+fi
+
+if [ ! -d /useremain/home/ytka/printer_data/config ];then
+    rm -rf /useremain/home/ytka/printer_data
+    cp -rfd ${update_file_path}/home/ytka/printer_data /useremain/home/ytka/printer_data
+    echo "Duck Pro config set up" >> /tmp/update-log.txt
+fi
+if [ ! -d /useremain/home/ytka/printer_data/logs ];then
+    mkdir -p /useremain/home/ytka/printer_data/logs
 fi
 
 # Place files that should be modified when installing update
